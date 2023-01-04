@@ -1,0 +1,174 @@
+
+hpython:S1192ú"ODefine a constant instead of duplicating this literal 'content-desc="' 5 times.(şÚÌó
+opython:S1192±"QDefine a constant instead of duplicating this literal r'bounds="(.*?)"' 15 times.(şÛé£úÿÿÿÿ
+opython:S1192…"QDefine a constant instead of duplicating this literal 'resource-id="{}"' 5 times.(ıéäÓüÿÿÿÿ
+`python:S1192‘"GDefine a constant instead of duplicating this literal 'text=' 17 times.(šáÚÑ
+dpython:S1192Ü"FDefine a constant instead of duplicating this literal '&#10;' 8 times.(«“·úÿÿÿÿ
+wpython:S1192ë"^Define a constant instead of duplicating this literal r'content-desc=["\'](.*?)["\']' 8 times.(åµúù
+wpython:S1192ƒ"YDefine a constant instead of duplicating this literal 'android.widget.TextView' 17 times.(ß°¸êúÿÿÿÿ
+lpython:S1192‹"SDefine a constant instead of duplicating this literal 'android.view.View' 21 times.(È±¯£
+spython:S1192‡"ZDefine a constant instead of duplicating this literal 'android.widget.ImageView' 10 times.(â’ „
+qpython:S1192°"XDefine a constant instead of duplicating this literal 'com.android.systemui:id' 3 times.(µÛØä
+zpython:S1192ó"\Define a constant instead of duplicating this literal 'anyå­—ç¬¦ä¸²éƒ½ä¸æ­£ç¡® {}' 5 times.(é¦Â“øÿÿÿÿ
+wpython:S1192Ù"YDefine a constant instead of duplicating this literal 'ä¼ å…¥çš„æ˜¯æœªçŸ¥ç±»å‹' 4 times.(¾«“ııÿÿÿÿ
+ppython:S1192“"WDefine a constant instead of duplicating this literal r'text=["\'](.*?)["\']' 14 times.(‹˜ß˜
+xpython:S1192â"ZDefine a constant instead of duplicating this literal 'android.widget.ScrollView' 4 times.(Áºë‚üÿÿÿÿ
+Mpython:S1066‰"/Merge this if statement with the enclosing one.(Ä¡óíÿÿÿÿÿ
+Hpython:S1066µ"/Merge this if statement with the enclosing one.(š¤¡Ó
+<python:S125"Remove this commented out code.(üïçx8ç¢Øø‡0
+=python:S1253"Remove this commented out code.(ÄöÀŸ8û›Úø‡0
+Bpython:S125<"Remove this commented out code.(·æòÂÿÿÿÿÿ8“ĞÚø‡0
+;python:S125K"Remove this commented out code.(—ÛìËıÿÿÿÿ
+;python:S125k"Remove this commented out code.(œÎ±èıÿÿÿÿ
+;python:S125z"Remove this commented out code.(´ˆ½ûÿÿÿÿ
+8python:S3626©"Remove this redundant continue.(À–¬ˆ
+Dpython:S5806¤"+Rename this variable; it shadows a builtin.(Ú¸ë
+<python:S125²"Remove this commented out code.(ùª²¯ûÿÿÿÿ
+>python:S1481Æ"%Remove the unused local variable "l".(‰€Üõ
+Cpython:S5806Å"+Rename this variable; it shadows a builtin.(éİ 
+7python:S125Ï"Remove this commented out code.(ôÅáä
+Dpython:S5806Ø"+Rename this variable; it shadows a builtin.(úÂÁÄ
+Dpython:S5806ê"+Rename this variable; it shadows a builtin.(úÂÁÄ
+Dpython:S5806ø"+Rename this variable; it shadows a builtin.(úÂÁÄ
+>python:S1481‚"%Remove the unused local variable "l".(şŸ¼Í
+Ipython:S5806€"+Rename this variable; it shadows a builtin.(Î³¯üÿÿÿÿ
+Ipython:S5806ƒ"+Rename this variable; it shadows a builtin.(òĞ¨´ûÿÿÿÿ
+>python:S1481"%Remove the unused local variable "l".(şŸ¼Í
+Ipython:S5806Œ"+Rename this variable; it shadows a builtin.(Î³¯üÿÿÿÿ
+Ipython:S5806"+Rename this variable; it shadows a builtin.(òĞ¨´ûÿÿÿÿ
+7python:S125ª"Remove this commented out code.(ÈØÌç
+<python:S125­"Remove this commented out code.(ùª²¯ûÿÿÿÿ
+7python:S125°"Remove this commented out code.( Ñô£
+7python:S125·"Remove this commented out code.(çÔ’‚
+7python:S125½"Remove this commented out code.(¬âŞŸ
+Cpython:S1481Ë"%Remove the unused local variable "i".(Ñ˜Äƒÿÿÿÿÿ
+5python:S3457Ò"Remove this unused argument.(´Õ†¦
+rpython:S3776Õ"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(ÃØ˜øÿÿÿÿ
+<python:S125Ş"Remove this commented out code.(ŠÍ§ÿÿÿÿÿ
+<python:S125è"Remove this commented out code.(©µ›òûÿÿÿÿ
+rpython:S3776ï"TRefactor this function to reduce its Cognitive Complexity from 47 to the 15 allowed.(‚ñíÿÿÿÿÿ
+6python:S125ñ"Remove this commented out code.(±²Ì
+<python:S125“"Remove this commented out code.(Ç®Ñ…øÿÿÿÿ
+mpython:S3776Ä"TRefactor this function to reduce its Cognitive Complexity from 25 to the 15 allowed.(ıÅË›
+mpython:S3776í"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(ĞœëŠ
+<python:S125ï"Remove this commented out code.(ùª²¯ûÿÿÿÿ
+<python:S125£"Remove this commented out code.(€¹é¬ùÿÿÿÿ
+<python:S125¨"Remove this commented out code.(ı†ÿÂúÿÿÿÿ
+4python:S3457µ"Remove this unused argument.(––Œe
+>python:S1481Ş"%Remove the unused local variable "l".(‰€Üõ
+>python:S1481è"%Remove the unused local variable "l".(‰€Üõ
+rpython:S3776Ñ"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(ºò‹şÿÿÿÿ
+>python:S1481ƒ"%Remove the unused local variable "l".(‰€Üõ
+>python:S1481"%Remove the unused local variable "l".(‰€Üõ
+rpython:S3776ö"TRefactor this function to reduce its Cognitive Complexity from 26 to the 15 allowed.(¢ê·øÿÿÿÿ
+Dpython:S5806¼"+Rename this variable; it shadows a builtin.(úÂÁÄ
+Dpython:S5806Â"+Rename this variable; it shadows a builtin.(úÂÁÄ
+Dpython:S5806Ó"+Rename this variable; it shadows a builtin.(úÂÁÄ
+Dpython:S5806Ù"+Rename this variable; it shadows a builtin.(úÂÁÄ
+Dpython:S5806à"+Rename this variable; it shadows a builtin.(úÂÁÄ
+Dpython:S5806ç"+Rename this variable; it shadows a builtin.(úÂÁÄ
+Dpython:S5806ù"+Rename this variable; it shadows a builtin.(úÂÁÄ
+Dpython:S5806€"+Rename this variable; it shadows a builtin.(úÂÁÄ
+Dpython:S5806‡"+Rename this variable; it shadows a builtin.(úÂÁÄ
+Dpython:S5806"+Rename this variable; it shadows a builtin.(úÂÁÄ
+Dpython:S5806­"+Rename this variable; it shadows a builtin.(úÂÁÄ
+Dpython:S5806µ"+Rename this variable; it shadows a builtin.(úÂÁÄ
+7python:S125å"Remove this commented out code.(„«—Ú
+Dpython:S5806ê"+Rename this variable; it shadows a builtin.(úÂÁÄ
+6python:S3626ø"Remove this redundant return.(ÙãŞŸ
+Dpython:S5806ò"+Rename this variable; it shadows a builtin.(úÂÁÄ
+Dpython:S5806„"+Rename this variable; it shadows a builtin.(úÂÁÄ
+Dpython:S5806"+Rename this variable; it shadows a builtin.(úÂÁÄ
+Dpython:S5806˜"+Rename this variable; it shadows a builtin.(úÂÁÄ
+6python:S125¥"Remove this commented out code.(¯Øe
+6python:S3626ß"Remove this redundant return.(ÙãŞŸ
+>python:S1481í"%Remove the unused local variable "d".(Ó†Œ®
+mpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(™ºŸ
+<python:S125®"Remove this commented out code.(ı†ÿÂúÿÿÿÿ
+4python:S3457¼"Remove this unused argument.(––Œe
+>python:S1481Á"%Remove the unused local variable "d".(Ó†Œ®
+Dpython:S1481Ä"+Remove the unused local variable "timeout".(„¬¯ï
+Ipython:S1481Æ"+Remove the unused local variable "timeout".(€Ú„üÿÿÿÿ
+rpython:S3776¿"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(ï‚’›úÿÿÿÿ
+rpython:S3776Ü"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(™ŠŞŒıÿÿÿÿ
+6python:S125¦	"Remove this commented out code.(ûì‘
+>python:S1481±	"%Remove the unused local variable "i".(Ä÷êñ
+7python:S125Í	"Remove this commented out code.(›µÓû
+Wpython:S3516×	"9Refactor this method to not always return the same value.(ËÃÀôÿÿÿÿÿ
+>python:S1481á	"%Remove the unused local variable "i".(Ä÷êñ
+<python:S125Ø	"Remove this commented out code.(¶©–ğùÿÿÿÿ
+Cpython:S1481í	"%Remove the unused local variable "i".( Ğúüÿÿÿÿ
+Wpython:S3516÷	"9Refactor this method to not always return the same value.(âÉó±øÿÿÿÿ
+>python:S1481ù	"%Remove the unused local variable "i".(Ì¼ä
+>python:S1481˜
+"%Remove the unused local variable "i".(Ä÷êñ
+Dpython:S5806—
+"+Rename this variable; it shadows a builtin.(úÂÁÄ
+Rpython:S3516¦
+"9Refactor this method to not always return the same value.(ğŸŒü
+>python:S1481©
+"%Remove the unused local variable "i".(Ä÷êñ
+Dpython:S5806¨
+"+Rename this variable; it shadows a builtin.(úÂÁÄ
+rpython:S3776¹
+"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(Å±ğİùÿÿÿÿ
+Wpython:S3516×
+"9Refactor this method to not always return the same value.(¨ ğÜùÿÿÿÿ
+>python:S1481Ù
+"%Remove the unused local variable "i".(Ä÷êñ
+Cpython:S1481ç
+"%Remove the unused local variable "i".(Ÿåˆ÷ùÿÿÿÿ
+=python:S1481†"%Remove the unused local variable "i".(Ò©øl
+Rpython:S905œ":Remove or refactor this statement; it has no side effects.(±á›
+Rpython:S905¤":Remove or refactor this statement; it has no side effects.(±á›
+Cpython:S1481¶"%Remove the unused local variable "i".(Ü‡‰…ûÿÿÿÿ
+Cpython:S1481Ç"%Remove the unused local variable "i".(Ü‡‰…ûÿÿÿÿ
+>python:S1481Š"%Remove the unused local variable "d".(Ó†Œ®
+Dpython:S5806‹"+Rename this variable; it shadows a builtin.(úÂÁÄ
+>python:S1481“"%Remove the unused local variable "d".(Ó†Œ®
+Dpython:S5806”"+Rename this variable; it shadows a builtin.(úÂÁÄ
+7python:S125œ"Remove this commented out code.(³õà§
+<python:S125¢"Remove this commented out code.(Ëƒı”ıÿÿÿÿ
+7python:S125µ"Remove this commented out code.(³õà§
+<python:S125»"Remove this commented out code.(Ëƒı”ıÿÿÿÿ
+<python:S125ú"Remove this commented out code.(…§Ñûÿÿÿÿ
+Dpython:S5806ı"+Rename this variable; it shadows a builtin.(úÂÁÄ
+<python:S125…"Remove this commented out code.(…§Ñûÿÿÿÿ
+Dpython:S5806ˆ"+Rename this variable; it shadows a builtin.(úÂÁÄ
+Dpython:S5806–"+Rename this variable; it shadows a builtin.(úÂÁÄ
+<python:S125¢"Remove this commented out code.(…§Ñûÿÿÿÿ
+Dpython:S5806¥"+Rename this variable; it shadows a builtin.(úÂÁÄ
+>python:S1481«"%Remove the unused local variable "d".(Ó†Œ®
+6python:S125­"Remove this commented out code.(§ßÂw
+upython:S117°"]Rename this parameter "sibling_className" to match the regular expression ^[_a-z][a-z0-9_]*$.(¡îô
+Dpython:S5806å"+Rename this variable; it shadows a builtin.(úÂÁÄ
+upython:S117”"]Rename this parameter "sibling_className" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ş§„
+>python:S1481¥"%Remove the unused local variable "d".(Ó†Œ®
+<python:S125£"Remove this commented out code.(–ëşòûÿÿÿÿ
+Dpython:S5806¬"+Rename this variable; it shadows a builtin.(úÂÁÄ
+Dpython:S5806¿"+Rename this variable; it shadows a builtin.(úÂÁÄ
+Dpython:S5806Æ"+Rename this variable; it shadows a builtin.(úÂÁÄ
+>python:S1481ö"%Remove the unused local variable "d".(Ó†Œ®
+Cpython:S125Ë"Remove this commented out code.(Á‡¼‰úÿÿÿÿ8ÁÜø‡0
+mpython:S3776§"TRefactor this function to reduce its Cognitive Complexity from 31 to the 15 allowed.(€ÿ—¸
+Dpython:S5806¨"+Rename this variable; it shadows a builtin.(úÂÁÄ
+Ipython:S5806¬"+Rename this variable; it shadows a builtin.(ƒØÉ—ÿÿÿÿÿ
+:python:S1110¯"!Remove those useless parentheses.(š¤¡Ó
+7python:S125°"Remove this commented out code.(µÛØä
+:python:S1110µ"!Remove those useless parentheses.(š¤¡Ó
+7python:S125¶"Remove this commented out code.(µÛØä
+:python:S1110»"!Remove those useless parentheses.(š¤¡Ó
+7python:S125¼"Remove this commented out code.(µÛØä
+spython:S3776Ä"URefactor this function to reduce its Cognitive Complexity from 232 to the 15 allowed.(–ÔÖ–ûÿÿÿÿ
+Ipython:S5806Ç"+Rename this variable; it shadows a builtin.(ƒØÉ—ÿÿÿÿÿ
+6python:S125Ë"Remove this commented out code.( İ¥Y
+6python:S125Ğ"Remove this commented out code.(¤¼ô2
+6python:S125Ö"Remove this commented out code.( İ¥Y
+Ipython:S5806×"+Rename this variable; it shadows a builtin.(–¿Ğ‘ÿÿÿÿÿ
+7python:S125Ü"Remove this commented out code.(´æÛß
+7python:S125â"Remove this commented out code.(´æÛß
+7python:S125¼"Remove this commented out code.(£ê
+Ipython:S5806Ê"+Rename this variable; it shadows a builtin.(ƒØÉ—ÿÿÿÿÿ
+Mpython:S1481İ"/Remove the unused local variable "result_list".(¡‘Ó»şÿÿÿÿ
+Ipython:S5806Ş"+Rename this variable; it shadows a builtin.(ƒØÉ—ÿÿÿÿÿ
+Apython:S108ö")Either remove or fill this block of code.(ã‘Û¾

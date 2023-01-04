@@ -1,0 +1,27 @@
+
+ppython:S1192™"RDefine a constant instead of duplicating this literal "%Y-%m-%d %H:%M:%S" 3 times.(à†Õíÿÿÿÿÿ
+hpython:S1192­"ODefine a constant instead of duplicating this literal "[{},{}][{},{}]" 4 times.(ÔõÐÿ
+Jpython:S1481!"-Remove the unused local variable "right_key".(ËË”¹ýÿÿÿÿ
+lpython:S3776D"TRefactor this function to reduce its Cognitive Complexity from 75 to the 15 allowed.(œÌ³ý
+Hpython:S5806Q"+Rename this variable; it shadows a builtin.(Ÿúé˜üÿÿÿÿ
+;python:S125S"Remove this commented out code.(ÏÆ®íúÿÿÿÿ
+;python:S125|"Remove this commented out code.(œîô–þÿÿÿÿ
+<python:S125"Remove this commented out code.(œîô–þÿÿÿÿ
+<python:S125Ý"Remove this commented out code.(ô…à‘ýÿÿÿÿ
+Kpython:S1481ý"-Remove the unused local variable "value_num".(ˆÁ—êûÿÿÿÿ
+mpython:S3776ì"TRefactor this function to reduce its Cognitive Complexity from 29 to the 15 allowed.(ÔéñŽ
+<python:S125•"Remove this commented out code.(¾ ¸äýÿÿÿÿ
+7python:S125¤"Remove this commented out code.(•Ò˜Î
+7python:S125«"Remove this commented out code.(ª°²Í
+7python:S125³"Remove this commented out code.(¬çÒÃ
+<python:S125º"Remove this commented out code.(¢ÙÕ¬ýÿÿÿÿ
+mpython:S3776Í"TRefactor this function to reduce its Cognitive Complexity from 46 to the 15 allowed.(ÈÙîÜ
+7python:S125Ó"Remove this commented out code.(Ñ¤Î¹
+7python:S125ð"Remove this commented out code.(ÙÀÃ˜
+<python:S125…"Remove this commented out code.(ÙÈêìýÿÿÿÿ
+7python:S125š"Remove this commented out code.(ïÃçá
+Ppython:S1481¢"2Remove the unused local variable "this_different".(àßýñûÿÿÿÿ
+Qpython:S1481£"3Remove the unused local variable "other_different".(ƒûÀ“üÿÿÿÿ
+Upython:S5754ù"<Specify an exception class to catch or reraise the exception(ˆÊÉ·
+Upython:S5754"<Specify an exception class to catch or reraise the exception(ˆÊÉ·
+Upython:S5754‹"<Specify an exception class to catch or reraise the exception(ˆÊÉ·
